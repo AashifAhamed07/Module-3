@@ -26,3 +26,4 @@ b = int(input())
 <img width="624" height="191" alt="Screenshot 2025-10-20 211127" src="https://github.com/user-attachments/assets/3dfe221f-7926-4f28-ad57-97238162be0c" />
 
 ## Result
+Thus,the python program that accepts a string and removes the character at the given index was created successfully.
