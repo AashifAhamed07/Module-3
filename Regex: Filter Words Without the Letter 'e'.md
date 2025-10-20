@@ -27,4 +27,4 @@ print(l1)
 <img width="515" height="156" alt="Screenshot 2025-10-20 210731" src="https://github.com/user-attachments/assets/8449d27f-880b-4198-8d70-bb3f5b651fa7" />
 
 ## Result
-Thus the python program that filters out and returns all elements from a list that dont contain the letter 'e' was created successfully.
+Thus,the python program that filters out and returns all elements from a list that do not contain the letter 'e' was created successfully.
